@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
     s.name = 'LightBundleSDK'
     s.platform = :ios, "7.0"
-    s.version = '0.1'
+    s.version = '1.0'
     s.license = 'MIT'
     s.summary = 'LightBundleSDK for cxb.'
     s.homepage = 'https://github.com/loverbabyz/LightBundle_SDK_iOS'
